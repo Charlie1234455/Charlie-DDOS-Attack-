@@ -2,7 +2,7 @@
 DDOS ATTACK
 # DdOS aTTack INjector #
 # instructions #
-sudo su #
+sudo su 
 
 Git clone https://github.com/Charlie1234455/Charlie-DDOS-Attack-.git 
 
