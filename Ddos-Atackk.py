@@ -20,8 +20,8 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "Author   : Charlie Haddad 
-print "CV : Cybersecurity pentester and professional, Certified EThical hacker,network vulnerability analyzer, Social engineer
+print "Author   : Charlie Haddad "
+print "CV : Cybersecurity pentester and professional, Certified EThical hacker,network vulnerability analyzer, Social engineer "
 print "github   : https://github.com/Charlie1234455/Charlie-DDOS-Attack-/new/main "
 print "Facebook : n/a "
 print
